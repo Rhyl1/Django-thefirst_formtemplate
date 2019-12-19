@@ -1,7 +1,8 @@
-# Code Institute
+# First template clone from working Django 1.11.26 template
+Welcome reader,
 
-Welcome Rhy,
+I got this working by cloning the first working template.
+& re-introducing env.py, after this installing django 1.11.26 and setting the allowed host 
+variables in settings.py to the adress given in the browserpreview window.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+and now this workspace is up and running - ready to experiment with the course material.
